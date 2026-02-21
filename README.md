@@ -158,19 +158,6 @@ function tinhBMI() {
 
 </body>
 </html>
-{
-  "name": "BMI Calculator Pro",
-  "short_name": "BMI App",
-  "start_url": "index.html",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#4facfe",
-  "icons": [
-    {
-      "src": "icon.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    }
 }
 self.addEventListener("install", function(event) {
   event.waitUntil(
