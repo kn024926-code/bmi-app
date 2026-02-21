@@ -158,7 +158,6 @@ function tinhBMI() {
 
 </body>
 </html>
-[manifest.json](https://github.com/user-attachments/files/25455684/manifest.json)
 {
   "name": "BMI Calculator Pro",
   "short_name": "BMI App",
