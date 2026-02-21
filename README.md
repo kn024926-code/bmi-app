@@ -172,7 +172,6 @@ function tinhBMI() {
       "type": "image/png"
     }
   ]
-[service-worker.js](https://github.com/user-attachments/files/25455685/service-worker.js)
 }
 self.addEventListener("install", function(event) {
   event.waitUntil(
