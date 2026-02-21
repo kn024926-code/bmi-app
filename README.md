@@ -1,4 +1,4 @@
-[idex.html](https://github.com/user-attachments/files/25455683/idex.html)<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="vi">
 <head>
 <meta charset="UTF-8">
