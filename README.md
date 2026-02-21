@@ -1,4 +1,4 @@
-[idex.html](https://github.com/user-attachments/files/25455683/idex.html)<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="vi">
 <head>
 <meta charset="UTF-8">
@@ -158,7 +158,6 @@ function tinhBMI() {
 
 </body>
 </html>
-[manifest.json](https://github.com/user-attachments/files/25455684/manifest.json)
 {
   "name": "BMI Calculator Pro",
   "short_name": "BMI App",
@@ -173,7 +172,6 @@ function tinhBMI() {
       "type": "image/png"
     }
   ]
-[service-worker.js](https://github.com/user-attachments/files/25455685/service-worker.js)
 }
 self.addEventListener("install", function(event) {
   event.waitUntil(
