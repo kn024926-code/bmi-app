@@ -171,7 +171,6 @@ function tinhBMI() {
       "sizes": "192x192",
       "type": "image/png"
     }
-  ]
 }
 self.addEventListener("install", function(event) {
   event.waitUntil(
