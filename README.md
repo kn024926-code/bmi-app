@@ -159,21 +159,3 @@ function tinhBMI() {
 </body>
 </html>
 }
-self.addEventListener("install", function(event) {
-  event.waitUntil(
-    caches.open("bmi-cache").then(function(cache) {
-      return cache.addAll([
-        "index.html",
-        "manifest.json",
-        "icon.png"
-      ]);
-    })
-  );
-});
-
-self.addEventListener("fetch", function(event) {
-  event.respondWith(
-    caches.match(event.request)
-  );
-});
-![z7532580459153_f2f2a029ac4b4f11a549f1ccb48329df](https://github.com/user-attachments/assets/f1e49cd0-db90-4b00-8e32-851f65848d10)
