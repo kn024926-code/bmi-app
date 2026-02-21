@@ -158,4 +158,3 @@ function tinhBMI() {
 
 </body>
 </html>
-}
